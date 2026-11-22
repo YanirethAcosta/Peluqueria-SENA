@@ -1,4 +1,4 @@
-# peluquer-a-Sena
+# Peluqueria-SENA
 proyecto peluquera node mysql javascript
 05-09-2026 se creo los requistos funcionales
 
